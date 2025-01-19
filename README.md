@@ -10,4 +10,4 @@ Odin Project
 ## Links
 Github: https://github.com/Richard-Au1/odin-recipes
 <br />
-Deployed: 
+Deployed: https://richard-au1.github.io/odin-recipes/
